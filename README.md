@@ -1,7 +1,2 @@
-# Приветствуем на интервью
-
-Для начала работы нужно установить нужную версию node она указана в `nvmrc`.
-
-1. `nvm use`
-2. `npm install`
-3. `npm run dev`
+1. `npm install`
+2. `npm run dev`
